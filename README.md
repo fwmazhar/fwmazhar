@@ -27,6 +27,7 @@ If you want to contact me, please leave me a message!
  ###  ***Summary*** ✨
 
 As a Junior Data Analyst
+
 📋 Strong background in statistics , mathematics and programming
 
 🔎 Data analysis | Data wrangling skills using Excel | SQL | Python
