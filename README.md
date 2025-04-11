@@ -32,7 +32,7 @@ As a Junior Data Analyst
 
 🔎 Data analysis | Data wrangling skills using Excel | SQL | Python
 
-📊 Data visualization and storytelling skills using Tableau
+📊 Data visualization and storytelling skills using Power BI | Tableau
 
 
 
